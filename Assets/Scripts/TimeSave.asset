@@ -13,15 +13,17 @@ MonoBehaviour:
   m_Name: TimeSave
   m_EditorClassIdentifier: 
   levelTimes:
-  - 24.398472
-  - 30.180887
-  - 38.7006
-  - 67.741455
-  - 35.067165
-  - 50.1416
-  - 76.58341
-  - 29.473303
-  - 16.519258
-  - 59.36804
-  totalTime: 428.1742
-  bestTime: 432.39325
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  totalTime: 0
+  bestTime: 0
